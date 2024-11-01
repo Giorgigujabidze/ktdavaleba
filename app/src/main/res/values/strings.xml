@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MidtermBtuEasy</string>
+    <string name="okay_text">Okay</string>
+    <string name="next_text">Next</string>
+    <string name="your_number_is_text">your number is</string>
+    <string name="number_input_text">Enter your number here</string>
+    <string name="desc_text">person icon</string>
+    <string name="click_to_dec_text">click button_to decrese a number</string>
+    <string name="click_button_text">click\n</string>
+    <string name="_0">0</string>
+    <string name="click_to_decrease">click to decrease a number\n</string>
+</resources>
